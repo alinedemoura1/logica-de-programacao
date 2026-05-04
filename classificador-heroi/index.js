@@ -1,1 +1,1 @@
-console.log ("Bem-vindo ao classificador de heróis!")
+console.log ("oi!")
