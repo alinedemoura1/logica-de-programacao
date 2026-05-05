@@ -1,7 +1,7 @@
 # 🔢 Calculadora de Partidas Rankeadas
 Projeto desenvolvido para o segundo desafio de lógica de programação da **DIO**.
 
-## 🚀 Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 - JavaScript
 
 ## 📝 O que o código faz?
